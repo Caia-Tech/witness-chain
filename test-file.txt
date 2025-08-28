@@ -1,0 +1,4 @@
+Test file for demonstrating real-time file monitoring
+This file was created to show how WitnessChain detects changes
+
+Modified: Adding this line to trigger a file change event
